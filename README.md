@@ -1,1 +1,1 @@
-# TM-dimerization
+# TM-dimerization with Martini 3
