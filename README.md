@@ -1,1 +1,1 @@
-# TM-dimerization with Martini 3
+# TM-dimerization using Martini 3 Coarse Grained Model
